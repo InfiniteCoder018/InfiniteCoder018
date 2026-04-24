@@ -1,16 +1,36 @@
-## Hi there 👋
+🌌 Bienvenido a mi espacio🌌
 
-<!--
-**InfiniteCoder018/InfiniteCoder018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🕹️ Player: [ Level 1 ]
 
-Here are some ideas to get you started:
+¡Hola! Estoy iniciando mi viaje en el código. Mi enfoque actual es dominar la arquitectura de la web, con la mirada puesta en el horizonte de los datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Inventario Actual
+
+"Acabo de salir de la carrera y, sinceramente, no entendí nada. Mi título es mi único objeto legendario, pero mis stats de conocimiento están en 0."
+
+Capacidad de carga:
+
+
+🗺️ Quest Log (Mi Hoja de Ruta)
+
+🌐 [ Fase 1: Desarrollo Web ]
+
+Aprendiendo lo que debí aprender en clase.
+
+🎨 UI/UX Design: Entendiendo que el diseño no es solo "ponerlo bonito".
+
+🧱 Estructura: Peleándome con HTML5 y CSS3.
+
+🧠 Lógica: Descubriendo que JavaScript no es tan fácil como decían.
+
+📊 [ Fase 2: Análisis de Datos ]
+
+Preparando el terreno para cuando entienda la Fase 1.
+
+📉 Visualización de información (prometo que no serán solo excels).
+
+🐍 Interés en aprender Python y SQL.
+
+🧪 Curiosidad por los patrones ocultos en los datos.
+
+📈 Estadísticas de Sesión
