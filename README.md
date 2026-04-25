@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/UdD45wK9OfUNW" width="480" height="382" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/haydiroket-haydiroket-UdD45wK9OfUNW">via GIPHY</a></p>
+
 
 🌌 Bienvenido a mi espacio🌌
 
