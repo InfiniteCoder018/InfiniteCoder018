@@ -1,6 +1,4 @@
-
-<a><ahref="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9iY2pmeDQwMDBsdW03aTk2dG9jbHozZXI5ZmV0MXQxYWFsdXRvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UdD45wK9OfUNW/giphy.gif)" border="0" alt="baile-imagen-animada-0474" /></a>
-
+<iframe src="https://giphy.com/embed/UdD45wK9OfUNW" width="480" height="382" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/haydiroket-haydiroket-UdD45wK9OfUNW">via GIPHY</a></p>
 
 🌌 Bienvenido a mi espacio🌌
 
