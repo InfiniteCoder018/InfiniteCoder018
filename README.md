@@ -1,6 +1,5 @@
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
+<a href="https://www.gifsanimados.org/cat-baile-107.htm"><img src="https://www.gifsanimados.org/data/media/107/baile-imagen-animada-0474.gif" border="0" alt="baile-imagen-animada-0474" /></a>
 
 
 🌌 Bienvenido a mi espacio🌌
